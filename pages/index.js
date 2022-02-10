@@ -7,7 +7,6 @@ export default function Home() {
       <Head>
         <title>Create Next App</title>
       </Head>
-
       <main className={styles.main}>
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
